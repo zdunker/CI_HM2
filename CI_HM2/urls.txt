@@ -1,0 +1,3 @@
+view-source:http://www.forecasts.org/data/data/USGOVT.htm
+view-source:http://www.forecasts.org/data/data/USPRIV.htm
+view-source:http://www.forecasts.org/data/data/PAYEMS.htm
